@@ -1,5 +1,5 @@
 ORDER_STATUS_TEMPLATES = {
-    "standard": """Hi {customer_name},
+    "standard": """Hi {customer_name}, 
 
 Thank you for reaching out to Northstar Retail Co.
 
@@ -15,13 +15,13 @@ If your tracking shows no movement for more than
 3 business days, reply to this message and a team
 member will investigate immediately.
 
-Northstar Support Team""",
+Northstar Support Team""", 
 
-    "delayed": """Hi {customer_name},
+    "delayed": """Hi {customer_name}, 
 
-We can see your order is taking a little longer
-than expected and we sincerely apologize for
-the inconvenience.
+We can see your order is taking a little longer 
+than expected and we sincerely apologize for 
+the inconvenience. 
 
 Your order is currently in transit. Our logistics
 team has been notified. You should receive an
