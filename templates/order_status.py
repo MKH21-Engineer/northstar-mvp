@@ -1,7 +1,7 @@
 ORDER_STATUS_TEMPLATES = {
     "standard": """Hi {customer_name}, 
 
-Thank you for reaching out to Northstar Retail Co.
+Thank you for reaching out to Northstar Retail Co. 
 
 You can track your order in real time using the link below:
 Track My Order: https://northstar.co/track?ref={ticket_id}
